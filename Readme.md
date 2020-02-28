@@ -18,7 +18,7 @@ comunidad
 
 # Contribuir
 
-Si quieres sumar tu frase y que esto cada día crezca más, deja tu pull request, todas las frases están en src/index.js
+Si quieres sumar tu frase y que esto cada día crezca más, deja tu pull request en https://github.com/humbertolopez2107/reminder-daily
 
 
 # License
