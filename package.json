@@ -1,6 +1,6 @@
 {
   "name": "sigueadelante",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Son mensajes random para que sigas adelante!",
   "main": "src/index.js",
   "scripts": {
