@@ -7,7 +7,7 @@ Ahora cada vez que necesites un mensaje para seguir adelante lo podrás tener de
 ## Install
 
 ```npm
-npm install -g comunidad
+npm install -g sigueadelante
 ```
 
 # Usage

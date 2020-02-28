@@ -30,7 +30,7 @@ const reminder =
     "Arriesgate a aprender todo lo que sueñas. Atte: Paula",
     "Aprender es dificíl, pero vale la pena. Nunca pares de aprender. Atte: David Behar",
     "Les recomiendo el curso de Git y Github profesional es una maravilla <3. Atte: @Tonalli",
-    "¡El trabajo duro supera al talento natural!. Atte: @Leonidad Esteban",
+    "¡El trabajo duro supera al talento natural!. Atte: @Leonidas Esteban",
     "Nunca paren de aprender, tus sueños se cumplen si sigues esta filosofía, es un camino dificíl pero lo vale. PD: Platzi se convierte en tu nueva familia. Atte: @mrdarkjeda.",
     "Nunca pares de aprender  nunca....",
     "Muchas gracias por preocuparte por el futuro de toda Latam. Nunca pares de crear. Atte: @WilliamVelazquez",
